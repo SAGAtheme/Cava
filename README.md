@@ -11,14 +11,13 @@ Replace the existing colour settings in your Cava config file (defaults to $XDG_
 [color]
 gradient = 1
 
-
-gradient_color_1 = '#b9fdcd'
-gradient_color_2 = '#ffffc6'
-gradient_color_3 = '#ffe1b1'
-gradient_color_4 = '#C4FFFE'
-gradient_color_5 = '#d7caed'
-gradient_color_6 = '#ffb7b2'
-gradient_color_7 = '#ffc2d0'
-gradient_color_8 = '#fad5d5'
+gradient_color_1 = '#baf7b5'
+gradient_color_2 = '#fff6c3'
+gradient_color_3 = '#ffc79b'
+gradient_color_4 = '#b2fff3'
+gradient_color_5 = '#dfbaff'
+gradient_color_6 = '#ff9fbc'
+gradient_color_7 = '#ffc2df'
+gradient_color_8 = '#ffe1e1'
 
 ```
